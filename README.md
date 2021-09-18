@@ -2,6 +2,8 @@
 I'm Hetvi Jethwani (she/her) 🌱 currently working on evolvability, bandit algorithms and summarization of hierarchical data. ⚡
 
 <!--
+TODO: ADD ASSIGNMENT REPOS FOR COL106, ELL409, DATA MINING, AND MTL106 OR ANY OTHER COURSES WITH NICE MATH IN THEM?
+
 **cosmicbhejafry/cosmicbhejafry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
