@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Hetvi 🌱 currently working on evolvability, bandit algorithms and summarization of hierarchical data. ⚡
-
+<!-- I'm Hetvi 🌱 currently working on evolvability, bandit algorithms and summarization of hierarchical data. ⚡
+ -->
 <!--
 TODO: ADD ASSIGNMENT REPOS FOR COL106, ELL409, DATA MINING, AND MTL106 OR ANY OTHER COURSES WITH NICE MATH IN THEM?
 
